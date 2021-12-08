@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello
+
+My name is Antoine Soetewey. I am a PhD student in statistics at UCLouvain. In parallel with my [research](https://antoinesoetewey.com/research/), I am [teaching assistant](https://antoinesoetewey.com/teaching/) for several courses in statistics and probability, and I give private [lessons](https://easystat.be/) to students and academics.
+
+When I find the time, I also write about statistics and [code](https://antoinesoetewey.com/software/) in R on my [blog](https://statsandr.com/).
+
+- 📫 How to reach me: [antoinesoetewey.com](https://antoinesoetewey.com/)
 
 <!--
 **AntoineSoetewey/AntoineSoetewey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
