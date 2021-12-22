@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is [Antoine Soetewey](https://antoinesoetewey.com/). I am a PhD student in statistics at UCLouvain. In parallel with my [research](https://antoinesoetewey.com/research/), I am [teaching assistant](https://antoinesoetewey.com/teaching/) for several courses in statistics, probability and data science, and I give private [lessons](https://easystat.be/) to students and academics.
+My name is [Antoine Soetewey](https://antoinesoetewey.com/). I am a PhD student in statistics at UCLouvain. In parallel with my [research](https://antoinesoetewey.com/research/), I am [teaching](https://antoinesoetewey.com/teaching/) assistant for several courses in statistics, probability and data science, and I give private [lessons](https://easystat.be/) to students and academics.
 
 When I find the time, I also [code](https://antoinesoetewey.com/software/) in R on my [blog](https://statsandr.com/).
 
