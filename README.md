@@ -1,10 +1,12 @@
 ### Hello 👋
 
-My name is [Antoine Soetewey](https://antoinesoetewey.com/). I am a PhD student in statistics at UCLouvain. In parallel with my [research](https://antoinesoetewey.com/research/), I am [teaching](https://antoinesoetewey.com/teaching/) assistant for several courses in statistics, probability and data science, and I give private [lessons](https://easystat.be/) to students and academics.
+My name is [Antoine Soetewey](https://antoinesoetewey.com/). I am a PhD student in statistics at UCLouvain (Belgium).
 
-When I find the time, I also [code](https://antoinesoetewey.com/software/) in R on my [blog](https://statsandr.com/).
+In parallel with my [research](https://antoinesoetewey.com/research/), I am [teaching](https://antoinesoetewey.com/teaching/) assistant for several courses in statistics, probability and data science. I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give private [lessons](https://easystat.be/) to students and academics.
 
-Learn more or contact me [here](https://antoinesoetewey.com/).
+When I find the time, I [code](https://antoinesoetewey.com/software/) in R on my [blog](https://statsandr.com/).
+
+Learn more about me or contact me [here](https://antoinesoetewey.com/).
 
 <!--
 **AntoineSoetewey/AntoineSoetewey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
