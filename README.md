@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is [Antoine Soetewey](https://antoinesoetewey.com/). I am a PhD student in statistics at UCLouvain (Belgium).
+My name is [Antoine Soetewey](https://antoinesoetewey.com/). I am a PhD candidate in statistics at UCLouvain (Belgium).
 
 In parallel with my [research](https://antoinesoetewey.com/research/), I am [teaching](https://antoinesoetewey.com/teaching/) assistant for several courses in statistics, probability and data science. I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give private [lessons](https://easystat.be/) to students and academics.
 
