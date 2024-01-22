@@ -6,7 +6,7 @@ In parallel with my [research](https://antoinesoetewey.com/research/), I am [tea
 
 When I find the time, I [code](https://antoinesoetewey.com/software/) in R and share it on my [blog](https://statsandr.com/) to make it accessible to more people.
 
-Learn more about me or contact me [here](https://antoinesoetewey.com/).
+You can learn more about me or contact me [here](https://antoinesoetewey.com/).
 
 <!--
 **AntoineSoetewey/AntoineSoetewey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
