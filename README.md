@@ -2,7 +2,7 @@
 
 My name is [Antoine Soetewey](https://antoinesoetewey.com/). I am a PhD researcher in statistics at UCLouvain (Belgium).
 
-In parallel with my [research](https://antoinesoetewey.com/research/), I am [teaching](https://antoinesoetewey.com/teaching/) several courses in statistics, probability and data science at UCLouvain and UNamur. I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give private [lessons](https://easystat.be/) to students and academics.
+In parallel with my [research](https://antoinesoetewey.com/research/), I am [teaching](https://antoinesoetewey.com/teaching/) several courses in statistics, probability and data science at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give private [lessons](https://easystat.be/) to students and academics.-->
 
 When I find the time, I [code](https://antoinesoetewey.com/software/) in R and share it on my [blog](https://statsandr.com/) to make it accessible to more people.
 
