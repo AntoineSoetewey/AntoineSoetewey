@@ -2,7 +2,7 @@
 
 I'm [Antoine Soetewey](https://antoinesoetewey.com/), a postdoctoral researcher in data science and statistics at HEC Liège and UCLouvain Saint-Louis Brussels.
 
-Alongside my [research](/research/), I [teach](/teaching/) statistics as a visiting lecturer at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give private [lessons](https://easystat.be/) to students and academics.-->
+Alongside my [research](/research/), I [teach](/teaching/) statistics and probability as a visiting lecturer at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give private [lessons](https://easystat.be/) to students and academics.-->
 
 In my free time, I enjoy coding in R and sharing insights on my [blog](https://statsandr.com/).
 
